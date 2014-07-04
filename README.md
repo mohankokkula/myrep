@@ -1,4 +1,4 @@
 myrep
 =====
 
-this is my first repositary
+  hi this is mohan i am new git hub version control system s/w...
